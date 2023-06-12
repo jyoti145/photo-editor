@@ -1,1 +1,1 @@
-# photo-editor use to eidt photo 
+# photo-editor use to edit photo 
